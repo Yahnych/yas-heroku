@@ -1,0 +1,29 @@
+{
+  "name": "yas-heroku",
+  "version": "1.0.0",
+  "description": "YouTube Audio Server running on Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "start": "yas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codealchemist/yas-heroku.git"
+  },
+  "keywords": [
+    "yas",
+    "youtube",
+    "audio",
+    "server",
+    "heroku"
+  ],
+  "author": "Alberto Miranda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codealchemist/yas-heroku/issues"
+  },
+  "homepage": "https://github.com/codealchemist/yas-heroku#readme",
+  "dependencies": {
+    "youtube-audio-server": "^2.1.4"
+  }
+}
